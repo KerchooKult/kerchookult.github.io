@@ -11,8 +11,8 @@ description: software development & random other projects
 
 
 ## Projects
-* Hamster Auto-Feeder
-* KerchooBot (discord) 
+* [Hamster Auto-Feeder](https://kerchookult.github.io/hamster)
+* [KerchooBot (discord)](https://kerchookult.github.io/kerchoobot)
 
 
 
