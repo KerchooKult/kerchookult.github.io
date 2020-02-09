@@ -3,7 +3,8 @@ layout: default
 title: Frequently asked questions
 description: Quick information about my projects.
 ---
-#FAQ
+
+# FAQ
 
 ## May I use any of your projects privately or for monitary gain?
 
@@ -12,3 +13,12 @@ description: Quick information about my projects.
 NO
 
 ***
+
+## What is your primary coding language?
+
+***
+
+Javascript
+
+***
+
