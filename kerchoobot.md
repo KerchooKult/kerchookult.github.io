@@ -10,7 +10,6 @@ description: an epic little discord bot, free to use.
 * customizeable prefix
 * moderation
 * lego meme format
-* NSFW :o
 
 ## KerchooBot Commands
  
@@ -37,14 +36,5 @@ description: an epic little discord bot, free to use.
         <li>prefix<p><i>changes your command prefix</i></p></li>
         <li>reset<p><i>reset your config</i></p></li>
 		<li>setlog<p><i>sets moderation logging channel</i></p></li>
-    </ul></p>
-</details>
-
-<details>
-    <summary>NSFW</summary>
-    <p><ul>
-        <li>anal<p><i>ow ow ow</i></p></li>
-        <li>ass<p><i>cake</i></p></li>
-        <li>tits<p><i>shows some...</i></p></li>
     </ul></p>
 </details>
