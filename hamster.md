@@ -3,12 +3,12 @@ layout: default
 title: Hamster Auto-Feeder
 description: feed your small pets on vacation!
 ---
-#Page Under Construction
+# Page Under Construction
 
 Come back later. 
 
 
-##Material List:
+## Material List:
 
 1. Rasberry Pi Model
 
